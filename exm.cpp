@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"hola mundo";
+	cout<<"hola mundo";//LOL  xD   :v este es un comentario 
 	getch();
 }
